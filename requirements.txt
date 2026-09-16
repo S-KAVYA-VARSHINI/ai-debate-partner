@@ -1,0 +1,8 @@
+
+streamlit
+google-genai
+openai-whisper
+torch
+sentence-transformers
+faiss-cpu
+gTTS
